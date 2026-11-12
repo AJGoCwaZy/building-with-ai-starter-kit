@@ -1,0 +1,108 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "stages": [
+    "idea",
+    "planned",
+    "building",
+    "live",
+    "paused"
+  ],
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Quiz game from my biology notes",
+      "said": "I want to build quiz game from my biology notes",
+      "size": "S",
+      "stage": "live",
+      "waiting_on": "",
+      "created": "2026-11-01",
+      "updated": "2026-11-03",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 2,
+      "title": "Club website with sign-up",
+      "said": "I want to build club website with sign-up",
+      "size": "M",
+      "stage": "building",
+      "waiting_on": "3 photos from you",
+      "created": "2026-11-02",
+      "updated": "2026-11-04",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 3,
+      "title": "Stock pitch deck on my favorite company",
+      "said": "I want to build stock pitch deck on my favorite company",
+      "size": "L",
+      "stage": "building",
+      "waiting_on": "pick the stock",
+      "created": "2026-11-03",
+      "updated": "2026-11-05",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 4,
+      "title": "Morning news report",
+      "said": "I want to build morning news report",
+      "size": "M",
+      "stage": "planned",
+      "waiting_on": "pick 5 sources",
+      "created": "2026-11-04",
+      "updated": "2026-11-06",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 5,
+      "title": "Chrome button that saves a page to my notes",
+      "said": "I want to build chrome button that saves a page to my notes",
+      "size": "S",
+      "stage": "idea",
+      "waiting_on": "",
+      "created": "2026-11-05",
+      "updated": "2026-11-07",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 6,
+      "title": "3D model of a plant cell",
+      "said": "I want to build 3d model of a plant cell",
+      "size": "M",
+      "stage": "idea",
+      "waiting_on": "",
+      "created": "2026-11-06",
+      "updated": "2026-11-08",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 7,
+      "title": "Budget tracker for my summer job",
+      "said": "I want to build budget tracker for my summer job",
+      "size": "S",
+      "stage": "idea",
+      "waiting_on": "",
+      "created": "2026-11-07",
+      "updated": "2026-11-09",
+      "build_prompt": "",
+      "links": []
+    },
+    {
+      "id": 8,
+      "title": "Workout log with charts",
+      "said": "I want to build workout log with charts",
+      "size": "S",
+      "stage": "paused",
+      "waiting_on": "a decision: phone or laptop",
+      "created": "2026-11-08",
+      "updated": "2026-11-10",
+      "build_prompt": "",
+      "links": []
+    }
+  ]
+}

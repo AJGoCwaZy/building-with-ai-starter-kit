@@ -1,0 +1,348 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "name": "Northwind Air Gases (SAMPLE)",
+  "ticker": "SMPLX",
+  "exchange": "FAKE",
+  "sector": "Industrial gases (sample)",
+  "currency": "USD",
+  "as_of": "2026-11-06 (fake date for practice)",
+  "price": 89.59,
+  "shares_outstanding_m": 120.0,
+  "net_debt_m": 1800.0,
+  "business": "Separates air into oxygen, nitrogen and argon and sells them to hospitals, factories and chip makers. Long contracts, steady cash.",
+  "segments": [
+    {
+      "name": "On-site plants (long contracts)",
+      "revenue_share": 0.45
+    },
+    {
+      "name": "Bulk delivery by truck",
+      "revenue_share": 0.3
+    },
+    {
+      "name": "Cylinders",
+      "revenue_share": 0.15
+    },
+    {
+      "name": "Engineering",
+      "revenue_share": 0.1
+    }
+  ],
+  "financials": [
+    {
+      "year": 2021,
+      "revenue_m": 3900,
+      "ebitda_m": 1170.0,
+      "net_income_m": 468.0,
+      "eps": 3.9,
+      "free_cash_flow_m": 429.0
+    },
+    {
+      "year": 2022,
+      "revenue_m": 4250,
+      "ebitda_m": 1317.5,
+      "net_income_m": 552.5,
+      "eps": 4.6,
+      "free_cash_flow_m": 510.0
+    },
+    {
+      "year": 2023,
+      "revenue_m": 4400,
+      "ebitda_m": 1452.0,
+      "net_income_m": 616.0,
+      "eps": 5.13,
+      "free_cash_flow_m": 572.0
+    },
+    {
+      "year": 2024,
+      "revenue_m": 4620,
+      "ebitda_m": 1570.8,
+      "net_income_m": 693.0,
+      "eps": 5.78,
+      "free_cash_flow_m": 646.8
+    },
+    {
+      "year": 2025,
+      "revenue_m": 4850,
+      "ebitda_m": 1697.5,
+      "net_income_m": 751.8,
+      "eps": 6.26,
+      "free_cash_flow_m": 703.2
+    }
+  ],
+  "dcf_assumptions": {
+    "revenue_growth": [
+      0.05,
+      0.05,
+      0.045,
+      0.04,
+      0.04
+    ],
+    "ebitda_margin": 0.35,
+    "capex_pct_revenue": 0.12,
+    "tax_rate": 0.22,
+    "wacc": 0.08,
+    "terminal_growth": 0.025
+  },
+  "peers": [
+    {
+      "ticker": "PEERA",
+      "name": "Sample Peer A",
+      "ev_ebitda": 16.2,
+      "pe": 27.5,
+      "dividend_yield": 0.018
+    },
+    {
+      "ticker": "PEERB",
+      "name": "Sample Peer B",
+      "ev_ebitda": 13.8,
+      "pe": 22.1,
+      "dividend_yield": 0.024
+    },
+    {
+      "ticker": "PEERC",
+      "name": "Sample Peer C",
+      "ev_ebitda": 11.5,
+      "pe": 18.9,
+      "dividend_yield": 0.031
+    }
+  ],
+  "thesis": [
+    "Long on-site contracts make revenue steady, like rent.",
+    "Prices rise with inflation clauses, so margins keep growing.",
+    "New clean hydrogen projects could add growth after 2027."
+  ],
+  "risks": [
+    "A slowdown in factories cuts bulk and cylinder sales.",
+    "Big projects can run over budget.",
+    "Energy is the main cost; a power price spike hurts."
+  ],
+  "catalysts": [
+    {
+      "date": "2027-02-10",
+      "event": "Q4 earnings (fake date)"
+    },
+    {
+      "date": "2027-05-01",
+      "event": "Hydrogen plant start-up (fake)"
+    }
+  ],
+  "recommendation": {
+    "rating": "BUY (practice only)",
+    "target_price": "computed by the deck from dcf_assumptions"
+  },
+  "price_history_weekly": [
+    {
+      "week_ending": "2025-11-07",
+      "close": 87.7
+    },
+    {
+      "week_ending": "2025-11-14",
+      "close": 89.08
+    },
+    {
+      "week_ending": "2025-11-21",
+      "close": 88.84
+    },
+    {
+      "week_ending": "2025-11-28",
+      "close": 88.41
+    },
+    {
+      "week_ending": "2025-12-05",
+      "close": 86.62
+    },
+    {
+      "week_ending": "2025-12-12",
+      "close": 86.42
+    },
+    {
+      "week_ending": "2025-12-19",
+      "close": 89.08
+    },
+    {
+      "week_ending": "2025-12-26",
+      "close": 90.29
+    },
+    {
+      "week_ending": "2026-01-02",
+      "close": 92.9
+    },
+    {
+      "week_ending": "2026-01-09",
+      "close": 93.76
+    },
+    {
+      "week_ending": "2026-01-16",
+      "close": 94.97
+    },
+    {
+      "week_ending": "2026-01-23",
+      "close": 95.69
+    },
+    {
+      "week_ending": "2026-01-30",
+      "close": 91.99
+    },
+    {
+      "week_ending": "2026-02-06",
+      "close": 94.23
+    },
+    {
+      "week_ending": "2026-02-13",
+      "close": 95.71
+    },
+    {
+      "week_ending": "2026-02-20",
+      "close": 97.19
+    },
+    {
+      "week_ending": "2026-02-27",
+      "close": 93.37
+    },
+    {
+      "week_ending": "2026-03-06",
+      "close": 89.58
+    },
+    {
+      "week_ending": "2026-03-13",
+      "close": 87.86
+    },
+    {
+      "week_ending": "2026-03-20",
+      "close": 87.1
+    },
+    {
+      "week_ending": "2026-03-27",
+      "close": 88.03
+    },
+    {
+      "week_ending": "2026-04-03",
+      "close": 88.19
+    },
+    {
+      "week_ending": "2026-04-10",
+      "close": 89.6
+    },
+    {
+      "week_ending": "2026-04-17",
+      "close": 88.43
+    },
+    {
+      "week_ending": "2026-04-24",
+      "close": 89.38
+    },
+    {
+      "week_ending": "2026-05-01",
+      "close": 90.53
+    },
+    {
+      "week_ending": "2026-05-08",
+      "close": 89.31
+    },
+    {
+      "week_ending": "2026-05-15",
+      "close": 93.41
+    },
+    {
+      "week_ending": "2026-05-22",
+      "close": 94.99
+    },
+    {
+      "week_ending": "2026-05-29",
+      "close": 98.12
+    },
+    {
+      "week_ending": "2026-06-05",
+      "close": 96.89
+    },
+    {
+      "week_ending": "2026-06-12",
+      "close": 95.39
+    },
+    {
+      "week_ending": "2026-06-19",
+      "close": 94.86
+    },
+    {
+      "week_ending": "2026-06-26",
+      "close": 94.89
+    },
+    {
+      "week_ending": "2026-07-03",
+      "close": 96.67
+    },
+    {
+      "week_ending": "2026-07-10",
+      "close": 97.56
+    },
+    {
+      "week_ending": "2026-07-17",
+      "close": 96.76
+    },
+    {
+      "week_ending": "2026-07-24",
+      "close": 94.74
+    },
+    {
+      "week_ending": "2026-07-31",
+      "close": 93.79
+    },
+    {
+      "week_ending": "2026-08-07",
+      "close": 96.93
+    },
+    {
+      "week_ending": "2026-08-14",
+      "close": 95.26
+    },
+    {
+      "week_ending": "2026-08-21",
+      "close": 96.13
+    },
+    {
+      "week_ending": "2026-08-28",
+      "close": 97.44
+    },
+    {
+      "week_ending": "2026-09-04",
+      "close": 94.1
+    },
+    {
+      "week_ending": "2026-09-11",
+      "close": 94.5
+    },
+    {
+      "week_ending": "2026-09-18",
+      "close": 97.87
+    },
+    {
+      "week_ending": "2026-09-25",
+      "close": 93.23
+    },
+    {
+      "week_ending": "2026-10-02",
+      "close": 92.76
+    },
+    {
+      "week_ending": "2026-10-09",
+      "close": 92.79
+    },
+    {
+      "week_ending": "2026-10-16",
+      "close": 91.17
+    },
+    {
+      "week_ending": "2026-10-23",
+      "close": 92.58
+    },
+    {
+      "week_ending": "2026-10-30",
+      "close": 92.71
+    },
+    {
+      "week_ending": "2026-11-06",
+      "close": 89.59
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "updated": "2026-11-11T18:00:00",
+  "items": [
+    {
+      "name": "Club website",
+      "state": "ok",
+      "detail": "Page loads, sign-up works"
+    },
+    {
+      "name": "Quiz game",
+      "state": "ok",
+      "detail": "Played 12 times this week (fake)"
+    },
+    {
+      "name": "Laptop storage",
+      "state": "warn",
+      "detail": "85% full (fake)"
+    },
+    {
+      "name": "News report",
+      "state": "off",
+      "detail": "Not built yet"
+    }
+  ]
+}

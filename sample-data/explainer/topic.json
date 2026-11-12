@@ -1,0 +1,53 @@
+{
+  "_note": "Sample topic. Facts are simplified and approximate, for learning only.",
+  "topic": "How a water treatment plant cleans river water",
+  "audience": "10th grade",
+  "stages": [
+    {
+      "id": "intake",
+      "name": "Intake",
+      "one_liner": "Pumps pull river water in through screens that stop sticks and fish.",
+      "approx_numbers": "screen gaps about 1 cm (approximate)"
+    },
+    {
+      "id": "coag",
+      "name": "Coagulation",
+      "one_liner": "A chemical makes tiny dirt bits stick together into clumps.",
+      "approx_numbers": "fast mixing, about 1 minute (approximate)"
+    },
+    {
+      "id": "settle",
+      "name": "Settling",
+      "one_liner": "Heavy clumps sink to the bottom of a big slow tank.",
+      "approx_numbers": "water stays a few hours (approximate)"
+    },
+    {
+      "id": "filter",
+      "name": "Filtering",
+      "one_liner": "Water drips through sand and gravel that trap what is left.",
+      "approx_numbers": "sand bed about 1 m deep (approximate)"
+    },
+    {
+      "id": "disinfect",
+      "name": "Disinfection",
+      "one_liner": "A small dose of chlorine or UV light kills germs.",
+      "approx_numbers": "a few parts per million (approximate)"
+    },
+    {
+      "id": "storage",
+      "name": "Storage and pipes",
+      "one_liner": "Clean water waits in a tank, then flows to homes.",
+      "approx_numbers": ""
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Why add a chemical in coagulation?",
+      "a": "So tiny dirt bits clump together and sink."
+    },
+    {
+      "q": "What traps the last bits?",
+      "a": "Layers of sand and gravel."
+    }
+  ]
+}

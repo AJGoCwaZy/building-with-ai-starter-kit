@@ -1,0 +1,10 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "name": "Sample Investing Club",
+  "school": "Example High School",
+  "meets": "Wednesdays 4:00 PM, Room 101 (fake)",
+  "colors": {
+    "primary": "#0B2545",
+    "accent": "#C9A227"
+  }
+}

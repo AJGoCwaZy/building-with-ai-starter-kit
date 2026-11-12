@@ -1,0 +1,116 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "generated": "2026-11-11T18:00:00",
+  "plans": [
+    {
+      "name": "Plan A (sample)",
+      "five_hour_used_pct": 42,
+      "weekly_used_pct": 31,
+      "resets_at": "2026-11-11T21:00:00"
+    },
+    {
+      "name": "Plan B (sample)",
+      "five_hour_used_pct": 12,
+      "weekly_used_pct": 55,
+      "resets_at": "2026-11-11T23:00:00"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "s-001",
+      "project": "stock-pitch",
+      "title": "Sample chat 1",
+      "model": "opus",
+      "status": "waiting on you",
+      "started": "2026-11-11T08:05:00",
+      "last_active": "2026-11-11T09:40:00",
+      "input_tokens": 136807,
+      "output_tokens": 36903,
+      "tool_calls": 72
+    },
+    {
+      "session_id": "s-002",
+      "project": "stock-pitch",
+      "title": "Sample chat 2",
+      "model": "haiku",
+      "status": "idle",
+      "started": "2026-11-11T09:05:00",
+      "last_active": "2026-11-11T10:40:00",
+      "input_tokens": 341508,
+      "output_tokens": 14789,
+      "tool_calls": 106
+    },
+    {
+      "session_id": "s-003",
+      "project": "club-site",
+      "title": "Sample chat 3",
+      "model": "sonnet",
+      "status": "idle",
+      "started": "2026-11-11T10:05:00",
+      "last_active": "2026-11-11T11:40:00",
+      "input_tokens": 124814,
+      "output_tokens": 35923,
+      "tool_calls": 66
+    },
+    {
+      "session_id": "s-004",
+      "project": "stock-pitch",
+      "title": "Sample chat 4",
+      "model": "haiku",
+      "status": "working",
+      "started": "2026-11-11T11:05:00",
+      "last_active": "2026-11-11T12:40:00",
+      "input_tokens": 34647,
+      "output_tokens": 20311,
+      "tool_calls": 63
+    },
+    {
+      "session_id": "s-005",
+      "project": "stock-pitch",
+      "title": "Sample chat 5",
+      "model": "opus",
+      "status": "waiting on you",
+      "started": "2026-11-11T12:05:00",
+      "last_active": "2026-11-11T13:40:00",
+      "input_tokens": 254476,
+      "output_tokens": 24906,
+      "tool_calls": 49
+    },
+    {
+      "session_id": "s-006",
+      "project": "quiz-game",
+      "title": "Sample chat 6",
+      "model": "opus",
+      "status": "working",
+      "started": "2026-11-11T13:05:00",
+      "last_active": "2026-11-11T14:40:00",
+      "input_tokens": 138932,
+      "output_tokens": 32807,
+      "tool_calls": 28
+    },
+    {
+      "session_id": "s-007",
+      "project": "stock-pitch",
+      "title": "Sample chat 7",
+      "model": "opus",
+      "status": "done",
+      "started": "2026-11-11T14:05:00",
+      "last_active": "2026-11-11T15:40:00",
+      "input_tokens": 347190,
+      "output_tokens": 2125,
+      "tool_calls": 64
+    },
+    {
+      "session_id": "s-008",
+      "project": "stock-pitch",
+      "title": "Sample chat 8",
+      "model": "haiku",
+      "status": "working",
+      "started": "2026-11-11T15:05:00",
+      "last_active": "2026-11-11T16:40:00",
+      "input_tokens": 366337,
+      "output_tokens": 9858,
+      "tool_calls": 119
+    }
+  ]
+}

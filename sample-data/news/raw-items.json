@@ -1,0 +1,78 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "gathered_at": "2026-11-11T06:30:00",
+  "items": [
+    {
+      "id": "n1",
+      "title": "Sample chip maker says demand is up 20%",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/1",
+      "published": "2026-11-11T00:15:00",
+      "topic": "markets",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n2",
+      "title": "Fake central bank keeps rates the same",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/2",
+      "published": "2026-11-11T01:15:00",
+      "topic": "economy",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n3",
+      "title": "Made-up AI lab ships a faster model",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/3",
+      "published": "2026-11-11T02:15:00",
+      "topic": "ai",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n4",
+      "title": "Pretend retailer misses sales target",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/4",
+      "published": "2026-11-11T03:15:00",
+      "topic": "markets",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n5",
+      "title": "Example energy firm signs 10-year gas deal",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/5",
+      "published": "2026-11-11T04:15:00",
+      "topic": "markets",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n6",
+      "title": "Imaginary startup builds a robot barista",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/6",
+      "published": "2026-11-11T05:15:00",
+      "topic": "ai",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n7",
+      "title": "Sample survey: students use AI for homework help",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/7",
+      "published": "2026-11-11T00:15:00",
+      "topic": "ai",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    },
+    {
+      "id": "n8",
+      "title": "Fake oil price drops 3% on supply news",
+      "source": "Sample Wire",
+      "url": "https://example.com/news/8",
+      "published": "2026-11-11T01:15:00",
+      "topic": "economy",
+      "summary": "A short made-up summary of the story for practice. Two sentences at most."
+    }
+  ]
+}

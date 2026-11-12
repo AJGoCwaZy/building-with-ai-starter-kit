@@ -1,0 +1,33 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "max_parallel_chats": 3,
+  "chats": [
+    {
+      "chat_id": "c1",
+      "name": "build: club website",
+      "idea_id": 2,
+      "step": "build",
+      "status": "working",
+      "question_for_you": null,
+      "last_update": "2026-11-11T17:40:00"
+    },
+    {
+      "chat_id": "c2",
+      "name": "build: stock pitch deck",
+      "idea_id": 3,
+      "step": "plan",
+      "status": "waiting on you",
+      "question_for_you": "Which stock should the deck be about? A) one you own B) one you use every day C) let me suggest 3",
+      "last_update": "2026-11-11T17:55:00"
+    },
+    {
+      "chat_id": "c3",
+      "name": "build: quiz game",
+      "idea_id": 1,
+      "step": "done",
+      "status": "done",
+      "question_for_you": null,
+      "last_update": "2026-11-10T21:10:00"
+    }
+  ]
+}

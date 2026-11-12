@@ -1,0 +1,27 @@
+{
+  "_note": "SAMPLE DATA. Made up for practice. Not a real company, person, price or event.",
+  "items": [
+    {
+      "id": "x1",
+      "type": "page",
+      "title": "Example article about budgeting",
+      "url": "https://example.com/budgeting",
+      "saved_at": "2026-11-10T20:01:00",
+      "note": "read later",
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "highlight",
+      "title": "Example lecture page",
+      "url": "https://example.com/lecture",
+      "text": "A highlighted sentence from the page.",
+      "saved_at": "2026-11-11T09:12:00",
+      "tags": [
+        "school"
+      ]
+    }
+  ]
+}

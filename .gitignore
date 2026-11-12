@@ -1,0 +1,26 @@
+# Secrets: never commit these
+.env
+.env.*
+*.key
+*.pem
+secrets/
+private/
+
+# Your own real data stays on your computer
+my-data/
+*.private.*
+
+# Things your tools make
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build-output/
+*.log
+.DS_Store
+Thumbs.db
+
+# Test runs
+_test/

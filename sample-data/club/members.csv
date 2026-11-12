@@ -1,0 +1,11 @@
+member_id,first_name,last_name,role,email,grade
+M01,Avery,Sample,President,avery.sample@example.com,10
+M02,Jordan,Example,Vice President,jordan.example@example.com,12
+M03,Riley,Testcase,Treasurer,riley.testcase@example.com,12
+M04,Casey,Placeholder,Secretary,casey.placeholder@example.com,9
+M05,Morgan,Demo,Analyst,morgan.demo@example.com,9
+M06,Taylor,Mockdata,Analyst,taylor.mockdata@example.com,11
+M07,Quinn,Fakename,Analyst,quinn.fakename@example.com,11
+M08,Skyler,Notreal,Analyst,skyler.notreal@example.com,11
+M09,Jamie,Pretend,Member,jamie.pretend@example.com,12
+M10,Drew,Madeup,Member,drew.madeup@example.com,12

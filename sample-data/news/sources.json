@@ -1,0 +1,23 @@
+{
+  "_note": "Placeholders. Swap in real free sources you pick (RSS feeds, newsletters, YouTube channels). Ask your AI to help you find each one's RSS link.",
+  "sources": [
+    {
+      "name": "A markets news site you like",
+      "type": "rss",
+      "url": "https://example.com/markets.rss",
+      "topic": "markets"
+    },
+    {
+      "name": "An AI news site",
+      "type": "rss",
+      "url": "https://example.com/ai.rss",
+      "topic": "ai"
+    },
+    {
+      "name": "A YouTube channel you watch",
+      "type": "youtube",
+      "url": "https://example.com/channel",
+      "topic": "ai"
+    }
+  ]
+}
